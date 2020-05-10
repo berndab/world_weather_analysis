@@ -87,5 +87,5 @@ This application
 * WeatherPy_travel_map_markers.png
   * Image of the google marker map for the 4 selected cities with popup informational windows displayed for some of the cities
 
-<img src="https://github.com/berndab/world_weather_analysis/blob/master/WeatherPy_travel_map_markers.png" width="800" height="250/>
+<img src="https://github.com/berndab/world_weather_analysis/blob/master/WeatherPy_travel_map_markers.png" width="800" height="250" />
 
