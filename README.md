@@ -56,9 +56,14 @@ This application
    * A csv file containing location, weather, and hotel information for the cities that meet the user's weather criteria
 2. WeatherPy_vacation_map.png
     * A image of the google location map with marker for each city that meets the weather criteria
+
+<img src="https://github.com/berndab/world_weather_analysis/blob/master/WeatherPy_vacation_map.png" width="800" height="250" />
+
 3. WeatherPy_vacation_map_zoom.png
     * A zoomed in image of the google location map showing the city location marker and with the popup information window displayed
-    
+
+<img src="https://github.com/berndab/world_weather_analysis/blob/master/WeatherPy_vacation_map_zoom.png" width="800" height="250" />
+
 ### Application 3: Vacation_Itinerary.ipynb
 #### Input:
 * WeatherPy_vacation.csv
@@ -76,5 +81,11 @@ This application
 #### Output:
 * WeatherPy_travel_map.png
   * Image of the google directional map for the 4 selected cities
+
+<img src="https://github.com/berndab/world_weather_analysis/blob/master/WeatherPy_travel_map.png" width="800" height="250" />
+
 * WeatherPy_travel_map_markers.png
   * Image of the google marker map for the 4 selected cities with popup informational windows displayed for some of the cities
+
+<img src="https://github.com/berndab/world_weather_analysis/blob/master/WeatherPy_travel_map_markers.png" width="800" height="250/>
+
