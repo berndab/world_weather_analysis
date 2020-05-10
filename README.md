@@ -47,10 +47,10 @@ This application
   * If no nearby hotel is found, the city is deleted from the list
 * Creates a google map with location markers for each city that meets the user's destination weather criteria
    * Configures each location markers to display a popup information window with the following information:
-       * Hotel name for that city
+       * The Hotel name for that city
        * The city name 
-       * The country abrieviation
-       * A current weather discription including the current max temperature for that day
+       * The country abbreviation
+       * The current weather description including the current max temperature for that day
 #### Output: 
 1. WeatherPy_vacation.csv
    * A csv file containing location, weather, and hotel information for the cities that meet the user's destination weather criteria
@@ -73,10 +73,10 @@ This application
   * Creates a google direction map
   * Creates a google marker map with a marker at the location of each of the 4 cities in the sample
    * Configures city location markers to display a popup information window with the following information:
-       * Hotel name for that city
+       * The Hotel name for that city
        * The city name 
-       * The country abrieviation
-       * A current weather discription including the current max temperature for that day
+       * The country abbreviation
+       * The current weather description including the current max temperature for that day
 
 #### Output:
 * WeatherPy_travel_map.png
