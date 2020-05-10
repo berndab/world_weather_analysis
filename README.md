@@ -46,8 +46,7 @@ This application
   * Finds a hotel for each selected city
       * If no nearby hotel is found the city is deleted from the list
 * Creates a google map with a location markers for each city that meets the weather criteria
-   * Configures location markers to display a popup information window when clicke
-   * The popup information window has the following information
+   * Configures location markers to display a popup information window when clicked which displayes
        * Hotel name for that city
        * The city name 
        * The country abrieviation
@@ -59,3 +58,23 @@ This application
     * A image of the google location map with marker for each city that meets the weather criteria
 3. WeatherPy_vacation_map_zoom.png
     * A zoomed in image of the google location map showing the city location marker and with the popup information window displayed
+    
+### Application 3: Vacation_Itinerary.ipynb
+#### Input:
+* WeatherPy_vacation.csv
+  * Contains location, current weather, and hotel information for the cities selected in application 2 that meet the user's destination weather criteria
+#### Description:
+* Takes a sample of 4 geographically local cities and 
+  * Creates a google direction map
+  * Creates a google marker map with a marker at the location of each city selected in application 2
+   * Configures city location markers to display a popup information window when clicked which displays
+       * Hotel name for that city
+       * The city name 
+       * The country abrieviation
+       * A current weather discription including the current max temperature for that day
+
+#### Output:
+* WeatherPy_travel_map.png
+  * Image of the google directional map for the 4 selected cities
+* WeatherPy_travel_map_markers.png
+  * Image of the google marker map for the 4 selected cities with popup informational windows displayed for some of the cities
